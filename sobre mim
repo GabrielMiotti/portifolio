@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><style>
+    body{
+     background-color: aquamarine;
+    }
+    </style>
+</head>
+<body>
+    <ul id="menu">
+        <li><a href="#">Sobre mim</a></li>
+        <li><a href=http://127.0.0.1:5500/projetos.html#>Projetos</a></li>
+        <li><a href=http://127.0.0.1:5500/portifolio.html>Inicio</a></li>
+    </ul>
+    <h1>Sobre mim:</h1>
+    <p class="textos">Me chamo Gabriel Miotti Moscon tenho 15 anos</p>
+    <p class="textos">faço aniversario dia 27 de abriel, nasci em 2010</p>
+    <p class="textos">Moro em Foz do Iguaçu no sul do Brasil no Parana</p>
+    <p class="textos">Estudo na escola IFPR CAMPUS FOZ DO IGUAÇU</p>
+    <p class="textos">Meu professor favorito é o jefferson chaves de desenvolvimento web(nao to puxando saco)</p>
+    
+        <div>
+        <h2>Informações/Hobbies</h2>
+        <ul class="lista">
+            <li>treino futsal;</li>
+            <li>Jogo Valorant ;</li>
+            <li>Vejo partidas passadas e skills do Neymar 🐐🏆;</li>
+        </ul>
+    </div>
+        <div>
+        <h3>Habilidades Web que aprendi no IF</h3>
+        <ul class="lista">
+            <li> Scratch;</li>
+            <li> Portugol Studio;</li>
+            <li> Girino PHP;</li>
+            <li> Girino em HTML;</li>
+        </ul>
+    </div>
+    <p class="textos">WhatsApp: (45) 9982-7997</p>
+    <p class="textos"><a href"https://github.com/GabrielMiotti" class="menu">https://github.com/GabrielMiotti</a></p>
+    <footer>
+        2026 Portifólio Gabriel Miotti
+    </footer>
+</body>
+</html>
