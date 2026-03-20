@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    #menua a{
+        text-decoration: none;
+        
+        color: white;
+    }
+    #menu{
+        height: 50px;
+        list-style: none;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    body{
+        background-color: aquamarine;
+    }
+    h1 {
+        display: flex;
+        align-items: center;
+    }
+
+</style>
+</head>
+<body>
+    
+    <ul id="menu">
+        <li><a href=http://127.0.0.1:5500/sobre%20mim.html#>Sobre mim</a></li>
+        <li><a href="http://127.0.0.1:5500/projetos.html#">Projetos</a></li>
+        <li><a href="#">Inicio</a></li>
+    </ul>
+
+    <h1 id="titulo"> PORTIFOLIO</h1>
+    <h1 id="nome"> NOME: Gabriel Miotti Moscon</h1>
+    <p class="textos"> Essa página tem fim acadêmico</p>
+    <p class="textos"> Na disciplina de Desenvolvimento Web, aprendemos a criar sites html e etc</p>
+    <p class="textos"> Conheça mais sobre mim clicando em: sobre</p>
+       <footer>
+        2026 Portifólio Gabriel Miotti
+    </footer>
+</body>
+</html>
