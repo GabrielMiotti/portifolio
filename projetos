@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="menu">
+        <li><a href=http://127.0.0.1:5500/sobre%20mim.html#>Sobre mim</a></li>
+        <li><a href="#">Projetos</a></li>
+        <li><a href=http://127.0.0.1:5500/portifolio.html>Inicio</a></li>
+    </ul>
+    <h1>Meus Projetos:</h1>
+
+    <p class="texto">Meu primeiro projeto que eu terminei e nao perdi foi a lista de compras do dino:</p>
+    <p class="texto">Ele foi um dos meus primeros projetos então esta bem cru alem dele ser usado para aprendizado</p>
+    <li><a href=http://127.0.0.1:5500/desafio2.html>Lista do Dino</a></li>
+    <p class="texto">Meu segundo projeto é o portifolio, criei usando tudo que eu sabia</p>
+    <li><a href=http://127.0.0.1:5500/portifolio.html>Portifolio</a></li>
+    <p class="texto">E meu terceiro projeto que era pra ser o meu primeiro foi como se fosse uma wiki da francria de harry potter</p>
+    <li><a href=http://127.0.0.1:5500/Harry%20Potter.html>Harry Potter</a></li>
+</body>
+</html>
